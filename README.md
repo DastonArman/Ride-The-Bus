@@ -1,2 +1,2 @@
 # RideTheBus
-Data analysis of riding the bus
+Data analysis of the popular game, "Riding the Bus"
